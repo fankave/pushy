@@ -5,3 +5,9 @@ doc
 .project
 .settings
 _site
+
+# IDEA
+.iml
+.idea/
+.idea_modules/
+
